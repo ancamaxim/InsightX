@@ -1,8 +1,3 @@
-### MAXIM Anca-Stefania 324CC
-### RUSANESCU Andrei-Marian 323CC
-
-## [GitHub link](https://github.com/andreirusanescu/PythonProject)
-
 # **Image Editor Application**
 
 ## **Introduction**
